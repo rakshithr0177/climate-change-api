@@ -97,7 +97,7 @@ newspapers.forEach((newspaper) => {
 })
 
 app.get('/', (req, res) => {
-    res.json('Hello World I am Rakshith.R')
+    res.json('Hello World I am Rakshith.R. Help add news in the search bar to get the news')
 })
 
 
